@@ -1,0 +1,13 @@
+.floor {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    width: 200px;
+  }
+  
+  .machine-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
